@@ -1,0 +1,19 @@
+@relation dailyuse
+@attribute ID {t1,t2,t3,t4,t5,t6,t7,t8,t9,t10}
+@attribute milk{yes,no}
+@attribute beer{yes,no}
+@attribute diapers{yes,no}
+@attribute bread{yes,no}
+@attribute butter{yes,no}
+@attribute cookies{yes,no}
+@data
+t1,yes,yes,yes,no,no,no
+t2,yes,no,no,yes,yes,no
+t3,yes,no,yes,no,no,yes
+t4,no,no,no,yes,yes,yes
+t5,no,yes,yes,no,no,yes
+t6,yes,no,yes,yes,yes,no
+t7,no,no,yes,yes,yes,no
+t8,no,no,yes,no,no,no
+t9,yes,no,yes,yes,yes,no
+t10,no,yes,no,no,no,yes

@@ -1,0 +1,17 @@
+@relation alphabets
+@attribute a{yes,no}
+@attribute d{yes,no}
+@attribute e{yes,no}
+@attribute i{yes,no}
+@attribute k{yes,no}
+@attribute m{yes,no}
+@attribute n{yes,no}
+@attribute o{yes,no}
+@attribute u{yes,no}
+@attribute y{yes,no}
+@data
+no,no,yes,no,yes,yes,yes,yes,no,yes
+no,yes,yes,no,yes,no,yes,yes,no,yes
+yes,no,yes,no,yes,yes,no,no,no,no
+no,no,no,no,yes,yes,no,no,yes,yes
+no,no,yes,yes,yes,no,no,yes,no,no

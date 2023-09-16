@@ -1,0 +1,13 @@
+@relation supermarket
+@attribute hotdogs{yes,no}
+@attribute buns{yes,no}
+@attribute ketchup{yes,no}
+@attribute coke{yes,no}
+@attribute chips{yes,no}
+@data
+yes,yes,yes,no,no
+yes,yes,no,no,no
+yes,no,no,yes,yes
+no,no,no,yes,yes
+no,no,yes,no,,yes
+yes,no,no,yes,yes

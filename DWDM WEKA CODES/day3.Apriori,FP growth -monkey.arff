@@ -1,0 +1,9 @@
+@relation shopping
+@attribute TID {t100,t200,t300,t400,t500}
+@attribute item {MONKEY,DONKEY,MAKE,MUCKY,COOKIE}
+@data
+t100,MONKEY
+t200,DONKEY
+t300,MAKE
+t400,MUCKY
+t500,COOKIE

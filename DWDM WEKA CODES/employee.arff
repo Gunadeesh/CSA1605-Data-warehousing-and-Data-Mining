@@ -1,0 +1,14 @@
+@relation "employee"
+@attribute id numeric
+@attribute f_name string
+@attribute l_name string 
+@attribute contact_num numeric
+@attribute dept {HR,IT,MANAGEMENT,MAINTAINANCE}
+@attribute DOB date dd-mm-yyyy
+@attribute city string
+
+@data
+1,naman,N,1234556678,IT,02-08-2000,rjt
+2,yash,M,1234556679,HR,04-05-2001,amd
+3,kishan,G,1214556678,MANAGEMENT,02-11-2001,pbr
+4,guna,M,5234556678,IT,03-05-2000,amd

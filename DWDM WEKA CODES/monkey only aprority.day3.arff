@@ -1,0 +1,18 @@
+@relation alphabets
+@attribute ID {t1,t2,t3,t4,t5}
+@attribute a{yes,no}
+@attribute d{yes,no}
+@attribute e{yes,no}
+@attribute i{yes,no}
+@attribute k{yes,no}
+@attribute m{yes,no}
+@attribute n{yes,no}
+@attribute o{yes,no}
+@attribute u{yes,no}
+@attribute y{yes,no}
+@data
+t1,no,no,yes,no,yes,yes,yes,yes,no,yes
+t2,no,yes,yes,no,yes,no,yes,yes,no,yes
+t3,yes,no,yes,no,yes,yes,no,no,no,no
+t4,no,no,no,no,yes,yes,no,no,yes,yes
+t5,no,no,yes,yes,yes,no,no,yes,no,no

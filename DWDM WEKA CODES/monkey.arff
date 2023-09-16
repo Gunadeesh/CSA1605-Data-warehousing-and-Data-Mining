@@ -1,0 +1,9 @@
+@relation Transactions
+@attribute Transaction_ID string
+@attribute Items string
+@data
+T1, MONKEY
+T2, DONKEY
+T3, MAKE
+T4, MUCKY
+T5, COOKIE

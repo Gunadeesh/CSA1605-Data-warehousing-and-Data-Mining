@@ -1,0 +1,18 @@
+@relation dailyuse
+@attribute milk{yes,no}
+@attribute beer{yes,no}
+@attribute diapers{yes,no}
+@attribute bread{yes,no}
+@attribute butter{yes,no}
+@attribute cookies{yes,no}
+@data
+yes,yes,yes,no,no,no
+yes,no,no,yes,yes,no
+yes,no,yes,no,no,yes
+no,no,no,yes,yes,yes
+no,yes,yes,no,no,yes
+yes,no,yes,yes,yes,no
+no,no,yes,yes,yes,no
+no,no,yes,no,no,no
+yes,no,yes,yes,yes,no
+no,yes,no,no,no,yes

@@ -1,0 +1,10 @@
+@relation "FOODITEMS"
+@attribute NUmber_ID string
+@attribute Items string
+@data
+T1,HotDogsBunsKetchup
+T2,HotDogsBuns
+T3,HotDogsCokeChips
+T4,CokeChips
+T5,KetchupChips
+T6,HotDogsCokeChips
